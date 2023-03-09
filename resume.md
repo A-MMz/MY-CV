@@ -6,6 +6,7 @@
 
 [![Mail](https://simpleicons.org/icons/gmail.svg) abraham.maz.mez@gmail.com](mailto:abraham.maz.mez@gmail.com)
 [![GitHub](https://simpleicons.org/icons/github.svg) github.com/A-MMz](https://github.com/A-MMz)
+[![Linkedin](https://simpleicons.org/icons/linkedin.svg) a-mmz](https://www.linkedin.com/in/a-mmz/)
 
 </span>
 
@@ -14,86 +15,54 @@
 ### Instituto Tecnológico de Estudios Superiores de Monterrey | <location> Campus Ciudad de México </location> <time> Aug 2019 – Present </time>
 
 - B.S. in Computer Systems Engineering
-- GPA: 3.7 | Expected Graduation: June 2023
+- GPA: 3.7 | Expected Graduation: June 202
+  
+## Skills
 
+- **Programming Languages**: Python, Java, C++, JavaScript, Dart/Flutter
+
+- **Linux**: VM instance creation, Iso creation, OS management from CLI
+
+- **Soft Skills**: Analytic, Self reflecting, Organized, Creative
+
+## Certifications 
+### ETS TOEFL IBT | <location>97 - **C1 English Proficiency**</location>
+
+### The Anglo YLTC - Young Learners Teacher Certificate  | <location>With Honors</location> <time> Jan 2018 </time>
 ## Relevant Experience
 
-### CISCO <time> Jan 2023 – Present </time>
+### CISCO | <location>Technical Undergraduate Intern</location> <time> Jan 2023 – Present </time>
 
-<location>Technical Undergraduate Intern</location>
-
-- Obtaining CCNA Certification (Expected completion by 06/2023)
+- Obtaining **CCNA** Certification (Expected completion by 06/2023)
 
 ### Undergraduate Research Stay<time> Aug 2023 - December 2023 </time>
 
-<location> Classroom Video Captioning via Keyframe Snalysis with Deep Learning Methods. <br/> Department of Artificial Intelligence, Instituto Tecnológico de Estudios Superiores de Monterrey, Campus Monterrey </location>
+<location> Classroom Video Captioning via Keyframe Analysis with Deep Learning Methods. <br/> Department of Artificial Intelligence, Instituto Tecnológico de Estudios Superiores de Monterrey, Campus Monterrey </location>
 
-- Fabricated and functionalized gold nanorods for promoting maturation of engineered cardiac tissues
-- Characterized gold nanorods using UV-visible spectroscopy and Raman spectroscopy
-- Measured contractile force of cardiac tissues by analyzing brightfield microscopy video data with Python
-- Processed confocal microscopy images of T-tubular systems of cardiomyocytes with Python
+- Designed the architecture for the final captioning model
+- Processed video stream to extract key-frames via color histogram, SVD and dynamic clustering
+- Processed key-frames with YOLOv5 to classify student behavior
+- Generated srt files from CLIP generated captions with **Python**
 
-### Calculus Teaching Assistant <time> Sep 2018 – May 2019 </time>
+## Training Partner Projects
 
-<location> Kinglee High School </location>
+### Amazon | <location> Web Application for call center management </location>
 
-- Gave AP Calculus AB lectures 4 hours weekly to 5 students in alignment with CollegeBoard curriculum
-- Clarified complex concepts and common confusions about calculus with classroom activities
-- Worked with supervisor to design and grade concept checks, homework, and quizzes with tight deadlines
+- Deployed an **Amazon DynamoDB** database and generated metrics with Amazon CloudWatch
+- Implemented API endpoints and CRUD operations for the DynamoDB instance with **Java** and **Springboot**
+- Front-end made with **JS React**
+- Implemented **unit tests** with **JUnit** and **Selenium** to test and and assure the WebApp complete functionality.
 
-## Other Experience
+### IBM | <location>Cloud-based multi-agent traffic simulation </location>
 
-### Webmaster <time> Apr 2022 – Present </time>
+- Modeled a traffic control solution that improves efficiency in street intersections. 
+- Created an agent-based simulation of street intersections written in Python (**Flask**) and **C#** (**Unity**). 
+- The data shared between the Python
+application (backend) and unity is controlled by an IBM Cloud Flask server.
 
-<location> American Institute of Chemical Engineers (AIChE), University of Washington </location>
-
-- Managed and designed official website; monitored and updated social media accounts and email list
-- Coordinated with internal and external media efforts to ensure up-to-date online presence
-- Facilitated coordination of ChemE BBQ event and graduation ceremony
-
-### Secretary <time> May 2021 – Present </time>
-
-<location> Women in Chemical Engineering, University of Washington </location>
-
-- Kept transparent meeting records, managed member email list, and maintained student group registration
-- Composed biweekly newsletters to 400+ members to update events, resources, and diversity highlights
-- Facilitated coordination of Veteran's Day event, Wiki-edit-a-thon, and International Women's Day event
-
-### Research and Development Officer <time> Apr 2020 – Jun 2021 </time>
-
-<location> Chinese Students and Scholars Association, University of Washington </location>
-
-- Designed, crafted, and edited posters and videos for major events, such as Student Orientation Programs
-- Assisted in maintenance of official blog and website to provide resources based on students' need
-
-### Maple Hall Council SEED Representative <time> Oct 2019 – Mar 2020 </time>
-
-<location> Housing and Food Services, University of Washington </location>
-
-- Led committee meetings and planned campus-wide competition that raised waste sorting awareness
-- Attended weekly hall council and SEED meetings to liaise feedback and updates on activities and initiatives
-
-### Peer Tutor of Math, Science, and English <time> Sep 2016 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Taught active reading and note-taking strategies to English as a second language (ESL) students
-- Reviewed course notes, clarified complex concepts, and provided feedback for course assignments
-- Received 2 Peer Tutor Awards in recognition of outstanding contribution to the peer tutoring program
-
-### Student Council Historian and Secretary <time> Oct 2017 – Jun 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Prepared, coordinated, and executed activities, including Halloween activities, Thanksgiving Bonfire Nights, Christmas celebrations, Spirit Weeks, and Academic Integrity Seminar
-- Drafted, edited, and updated activity proposals and meeting minutes for iterative improvement of execution
-- Raised 1000+ CNY funds and 200+ books for children in need with fundraising events
-
-### Lab Peer Supervisor <time> Mar 2017 – Mar 2019 </time>
-
-<location> Kinglee High School </location>
-
-- Supervised biology, chemistry, and physics lab practices of 9th-grade students for Zhongzhao Examination
-- Taught lab safety guidelines, standard lab procedures, and best practices, as well as ensured lab safety
-
+## Awards
+### Cybersecurity Heroes | <location>First place </location> <time> Jun 2022</time>
+In the Women for Cybersecurity AdaWomen Hackaton in the **Cisco** challenge, my team developed a feed reader that could identify aggression intent of  internet feeds with **REGEX** matching. 
+### ACM MTY - HackMY | <location>Creativity award </location> <time> Nov 2022</time> 
+Developed a **Flutter/Dart** Uber like app to solve food waste problem by connecting producers and consumers that want to give a better use to food waste.
 <!-- Detail checks: 1. No period for each bullet; 2. Past tense for previous work; 3. Present tense for current work; 4. Spell check passed; 5. Grammarly check passed; 6. Sync with Linkedin; 7. Check paper format -->
